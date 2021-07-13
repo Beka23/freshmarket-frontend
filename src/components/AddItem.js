@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState } from "react";
 
 function AddItem({ addItem, category, currentUser }) {
 
@@ -146,4 +146,4 @@ return (
 )
 }
 
-export default AddItem 
+export default AddItem;

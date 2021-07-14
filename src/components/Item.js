@@ -38,4 +38,4 @@ function Item({item, currentUser}) {
     )
 }
 
-export default Item
+export default Item;

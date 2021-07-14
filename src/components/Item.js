@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import ItemDetails from "./ItemDetails";
-import { NavLink, useHistory } from "react-router-dom"
+import { NavLink, useHistory } from "react-router-dom";
 
 function Item({item, currentUser}) {
     const history = useHistory()

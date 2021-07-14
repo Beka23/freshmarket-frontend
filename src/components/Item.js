@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import React, {useState} from "react";
 import ItemDetails from "./ItemDetails"
 import { NavLink, useHistory } from "react-router-dom"
 

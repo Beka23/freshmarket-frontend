@@ -54,4 +54,4 @@ function ItemDetails({currentUser, onSetCart}) {
     )
 }
 
-export default ItemDetails
+export default ItemDetails;

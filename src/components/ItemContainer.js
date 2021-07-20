@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import Search from './Search';
-import Item from './Item'
+import Item from './Item';
 import AddItem from './AddItem'
 
 function ItemContainer({items, addItem, category, currentUser}) {

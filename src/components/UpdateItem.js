@@ -107,4 +107,4 @@ function UpdateItem({onDelete}) {
     )
 }
 
-export default UpdateItem
+export default UpdateItem;

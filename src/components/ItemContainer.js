@@ -65,4 +65,4 @@ function ItemContainer({items, addItem, category, currentUser}) {
     )
 }
 
-export default ItemContainer
+export default ItemContainer;

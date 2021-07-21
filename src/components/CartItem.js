@@ -23,4 +23,4 @@ function CartItem({cartItem, removeFromTheCart}) {
 
 }
 
-    export default CartItem
+    export default CartItem;

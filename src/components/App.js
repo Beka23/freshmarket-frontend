@@ -3,7 +3,7 @@ import Header from './Header';
 import ItemContainer from './ItemContainer';
 import ItemDetails from './ItemDetails';
 import Login from './Login';
-import Home from './Home'
+import Home from './Home';
 import UpdateItem from './UpdateItem'
 import Signup from './Signup'
 import Cart from './Cart'

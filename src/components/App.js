@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from './Header';
-import ItemContainer from './ItemContainer'
+import ItemContainer from './ItemContainer';
 import ItemDetails from './ItemDetails'
 import Login from './Login'
 import Home from './Home'

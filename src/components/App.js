@@ -4,7 +4,7 @@ import ItemContainer from './ItemContainer';
 import ItemDetails from './ItemDetails';
 import Login from './Login';
 import Home from './Home';
-import UpdateItem from './UpdateItem'
+import UpdateItem from './UpdateItem';
 import Signup from './Signup'
 import Cart from './Cart'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'

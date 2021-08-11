@@ -38,4 +38,4 @@ function Cart({inCart, removeFromTheCart, setInCart}) {
     )
 }
 
-export default Cart
+export default Cart;

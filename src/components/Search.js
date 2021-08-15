@@ -11,4 +11,4 @@ function Search({setSearch}) {
 
 }
 
-export default Search 
+export default Search;

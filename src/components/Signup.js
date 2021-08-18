@@ -66,4 +66,4 @@ function  Signup({setCurrentUser, currentUser}) {
 }
 
 
-export default Signup
+export default Signup;

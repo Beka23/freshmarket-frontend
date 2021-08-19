@@ -146,4 +146,4 @@ return (
 )
 }
 
-export default AddItem
+export default AddItem;
